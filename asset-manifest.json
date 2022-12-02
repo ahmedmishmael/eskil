@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ahmedmishmael/eskil.git/static/css/main.90c0a078.css",
+    "main.js": "/ahmedmishmael/eskil.git/static/js/main.13549943.js",
+    "static/media/EskilMP4.mp4": "/ahmedmishmael/eskil.git/static/media/EskilMP4.44d5edad3bbaed39f891.mp4",
+    "static/media/team1.jpg": "/ahmedmishmael/eskil.git/static/media/team1.de4e1981bdd1e1bb5883.jpg",
+    "static/media/team2.jpg": "/ahmedmishmael/eskil.git/static/media/team2.698f638e6289917edbca.jpg",
+    "static/media/About.jpg": "/ahmedmishmael/eskil.git/static/media/About.809d1e78a569849f2ec9.jpg",
+    "static/media/team4.jpg": "/ahmedmishmael/eskil.git/static/media/team4.933a849dad82e2e238b1.jpg",
+    "static/media/brand6.png": "/ahmedmishmael/eskil.git/static/media/brand6.bd4eb7d7f2ead118be9f.png",
+    "static/media/brand4.png": "/ahmedmishmael/eskil.git/static/media/brand4.52b5d7c83ed2e572e15e.png",
+    "static/media/team3.jpg": "/ahmedmishmael/eskil.git/static/media/team3.0d8458dd17800dcfd9fa.jpg",
+    "static/media/blog1.jpg": "/ahmedmishmael/eskil.git/static/media/blog1.5e79652018fed079aa94.jpg",
+    "static/media/brand1.png": "/ahmedmishmael/eskil.git/static/media/brand1.7b19b0324747518500d0.png",
+    "static/media/SMChair.jpg": "/ahmedmishmael/eskil.git/static/media/SMChair.e71817d7351722458d87.jpg",
+    "static/media/blog2.jpg": "/ahmedmishmael/eskil.git/static/media/blog2.117910362ffe6fad4480.jpg",
+    "static/media/blog4.jpg": "/ahmedmishmael/eskil.git/static/media/blog4.a85e08e739b5242f771f.jpg",
+    "static/media/blog3.jpg": "/ahmedmishmael/eskil.git/static/media/blog3.cc5063105aff14eb6c51.jpg",
+    "static/media/brand3.png": "/ahmedmishmael/eskil.git/static/media/brand3.be92cfc3a30669cfbe76.png",
+    "static/media/Ahmed Ishmael.png": "/ahmedmishmael/eskil.git/static/media/Ahmed Ishmael.c2e08ee327555252e236.png",
+    "static/media/brand5.png": "/ahmedmishmael/eskil.git/static/media/brand5.f83a4b57c07fea85af58.png",
+    "index.html": "/ahmedmishmael/eskil.git/index.html",
+    "main.90c0a078.css.map": "/ahmedmishmael/eskil.git/static/css/main.90c0a078.css.map",
+    "main.13549943.js.map": "/ahmedmishmael/eskil.git/static/js/main.13549943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c0a078.css",
+    "static/js/main.13549943.js"
+  ]
+}
