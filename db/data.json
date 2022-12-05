@@ -9,8 +9,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=72my8t2mq",
-    "url2": "https://files.fm/thumb_show.php?i=72my8t2mq"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH5",
@@ -22,8 +22,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=hmhmcppp9",
-    "url2": "https://files.fm/thumb_show.php?i=hmhmcppp9"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA2",
@@ -36,8 +36,8 @@
     "bestSeller": true,
     "wished": false,
     "featured": true,
-    "url": "https://files.fm/thumb_show.php?i=8g9846ujm",
-    "url2": "https://files.fm/thumb_show.php?i=nkgr2684c"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA3",
@@ -50,8 +50,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=hyg98e5da",
-    "url2": "https://files.fm/thumb_show.php?i=hyg98e5da"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA4",
@@ -64,8 +64,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=gz54h9qff",
-    "url2": "https://files.fm/thumb_show.php?i=gz54h9qff"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA7",
@@ -78,8 +78,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=b2mxxm8s6",
-    "url2": "https://files.fm/thumb_show.php?i=b2mxxm8s6"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH6",
@@ -91,8 +91,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=tkbwq54nb",
-    "url2": "https://files.fm/thumb_show.php?i=tkbwq54nb"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA7",
@@ -104,8 +104,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=cxvhvzp66",
-    "url2": "https://files.fm/thumb_show.php?i=cxvhvzp66"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH7",
@@ -117,8 +117,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=jawqptnt7",
-    "url2": "https://files.fm/thumb_show.php?i=jawqptnt7"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA2",
@@ -130,9 +130,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=p5e9ng2vt",
-    "url2": "https://files.fm/thumb_show.php?i=p5e9ng2vt"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "CH15",
@@ -144,9 +144,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=5jqurhfes",
-    "url2": "https://files.fm/thumb_show.php?i=5jqurhfes"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "LA8",
@@ -158,9 +158,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=ga6s5jtxu",
-    "url2": "https://files.fm/thumb_show.php?i=ga6s5jtxu"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "SO1",
@@ -172,8 +172,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=g9ctma92p",
-    "url2": "https://files.fm/thumb_show.php?i=g9ctma92p"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH8",
@@ -185,8 +185,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=mckv8qk62",
-    "url2": "https://files.fm/thumb_show.php?i=mckv8qk62"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH9",
@@ -199,8 +199,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=rbg9fcd5j",
-    "url2": "https://files.fm/thumb_show.php?i=rbg9fcd5j"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CA10",
@@ -212,8 +212,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=jxvq8xfpn",
-    "url2": "https://files.fm/thumb_show.php?i=jxvq8xfpn"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CL1",
@@ -225,8 +225,8 @@
     "inCart": false,
     "wished": false,
     "featured": true,
-    "url": "https://files.fm/thumb_show.php?i=cunvaz8v8",
-    "url2": "https://files.fm/thumb_show.php?i=pgc436bvs"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CA11",
@@ -238,8 +238,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=e8xut5d88",
-    "url2": "https://files.fm/thumb_show.php?i=e8xut5d88"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA6",
@@ -251,8 +251,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=4d46f8x96",
-    "url2": "https://files.fm/thumb_show.php?i=4d46f8x96"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA5",
@@ -264,8 +264,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=2nk35yacm",
-    "url2": "https://files.fm/thumb_show.php?i=2nk35yacm"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA6",
@@ -277,8 +277,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=mycp9z6j2",
-    "url2": "https://files.fm/thumb_show.php?i=mycp9z6j2"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "SO2",
@@ -290,9 +290,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=2wxdw5tr3",
-    "url2": "https://files.fm/thumb_show.php?i=2wxdw5tr3"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "TA3",
@@ -304,8 +304,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=8yfvtnthx",
-    "url2": "https://files.fm/thumb_show.php?i=8yfvtnthx"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH3",
@@ -317,8 +317,8 @@
     "inCart": false,
     "wished": false,
     "featured": true,
-    "url": "https://files.fm/thumb_show.php?i=8egu8anqt",
-    "url2": "https://files.fm/thumb_show.php?i=pkvv88epe"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH16",
@@ -330,9 +330,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=f9vcj8dd4",
-    "url2": "https://files.fm/thumb_show.php?i=f9vcj8dd4"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "TA5",
@@ -344,8 +344,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=czekb5qqe",
-    "url2": "https://files.fm/thumb_show.php?i=czekb5qqe"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH1",
@@ -357,8 +357,8 @@
     "inCart": false,
     "wished": false,
     "featured": true,
-    "url": "https://files.fm/thumb_show.php?i=2vxtj7jds",
-    "url2": "https://files.fm/thumb_show.php?i=8xwt4jhh4"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA4",
@@ -370,8 +370,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=7xkektv83",
-    "url2": "https://files.fm/thumb_show.php?i=7xkektv83"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH10",
@@ -383,9 +383,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=azcq3yzbk",
-    "url2": "https://files.fm/thumb_show.php?i=azcq3yzbk"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "CH14",
@@ -397,8 +397,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=adnepee3g",
-    "url2": "https://files.fm/thumb_show.php?i=adnepee3g"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH2",
@@ -410,8 +410,8 @@
     "inCart": false,
     "wished": false,
     "featured": true,
-    "url": "https://files.fm/thumb_show.php?i=pppuwn6h9",
-    "url2": "https://files.fm/thumb_show.php?i=7apkz54cq"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH19",
@@ -423,9 +423,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=2nqfh9jsp",
-    "url2": "https://files.fm/thumb_show.php?i=2nqfh9jsp"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "SO3",
@@ -437,8 +437,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=3uj58b5y4",
-    "url2": "https://files.fm/thumb_show.php?i=3uj58b5y4"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH17",
@@ -450,8 +450,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=fw8m2gu95",
-    "url2": "https://files.fm/thumb_show.php?i=fw8m2gu95"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA8",
@@ -463,8 +463,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=ey4623hqe",
-    "url2": "https://files.fm/thumb_show.php?i=ey4623hqe"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "TA1",
@@ -476,8 +476,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=wcpuyre8g",
-    "url2": "https://files.fm/thumb_show.php?i=pp44rfa2v"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "CH11",
@@ -489,8 +489,8 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "url": "https://files.fm/thumb_show.php?i=hxtjmabwx",
-    "url2": "https://files.fm/thumb_show.php?i=hxtjmabwx"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png"
   },
   {
     "id": "LA9",
@@ -502,9 +502,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=gn25s79qg",
-    "url2": "https://files.fm/thumb_show.php?i=gn25s79qg"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "LA1",
@@ -516,9 +516,9 @@
     "inCart": false,
     "wished": false,
     "featured": true,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=tx8y6ntev",
-    "url2": "https://files.fm/thumb_show.php?i=5by38gkj8"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "CH12",
@@ -530,9 +530,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=e97nvx76k",
-    "url2": "https://files.fm/thumb_show.php?i=e97nvx76k"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "CH13",
@@ -544,9 +544,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": false,
-    "url": "https://files.fm/thumb_show.php?i=hpx4k4bq7",
-    "url2": "https://files.fm/thumb_show.php?i=hpx4k4bq7"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": false
   },
   {
     "id": "CH18",
@@ -558,9 +558,9 @@
     "inCart": false,
     "wished": false,
     "featured": false,
-    "bestSeller": true,
-    "url": "https://files.fm/thumb_show.php?i=xg48ruefe",
-    "url2": "https://files.fm/thumb_show.php?i=xg48ruefe"
+    "url": "db/images/products/1.png",
+    "url2": "db/images/products/1.png",
+    "bestSeller": true
   },
   {
     "id": "CA1",
@@ -675,62 +675,62 @@
     "category": "projects",
     "title": "FURNITURE, MODERN",
     "name": "Apartment QI",
-    "url": "https://files.fm/thumb_show.php?i=wzwfnwzqf"
+    "url": "db/images/projects/1.png"
   },
   {
-    "id": "pro12",
+    "id": "pro2",
     "category": "projects",
     "title": "ART, MODERN",
     "name": "Bedroom designs",
-    "url": "https://files.fm/thumb_show.php?i=83xwkmncx"
+    "url": "db/images/projects/2.png"
   },
   {
     "id": "pro3",
     "category": "projects",
     "title": "ART, MODERN",
     "name": "Living rooms",
-    "url": "https://files.fm/thumb_show.php?i=49mxd2bks"
+    "url": "db/images/projects/3.png"
   },
   {
     "id": "pro4",
     "category": "projects",
     "title": "FURNITURE, MODERN",
     "name": "Office interior",
-    "url": "https://files.fm/thumb_show.php?i=cvurzqhra"
+    "url": "db/images/projects/4.png"
   },
   {
     "id": "pro5",
     "category": "projects",
     "title": "Appartment complex, ART",
     "name": "Appartment plaza",
-    "url": "https://files.fm/thumb_show.php?i=ddyybm4tg"
+    "url": "db/images/projects/5.png"
   },
   {
     "id": "pro6",
     "category": "projects",
     "title": "ART",
     "name": "Modern Office",
-    "url": "https://files.fm/thumb_show.php?i=cy4nfecsn"
+    "url": "db/images/projects/6.png"
   },
   {
     "id": "pro7",
     "category": "projects",
     "title": "MODERN",
     "name": "Style & Storage",
-    "url": "https://files.fm/thumb_show.php?i=tzg8g2g9x"
+    "url": "db/images/projects/7.png"
   },
   {
     "id": "pro8",
     "category": "projects",
     "title": "ART",
     "name": "Residence interior",
-    "url": "https://files.fm/thumb_show.php?i=68h72e87c"
+    "url": "db/images/projects/8.png"
   },
   {
     "id": "pro9",
     "category": "projects",
     "title": "MODERN",
     "name": "Locus Amoenus",
-    "url": "https://files.fm/thumb_show.php?i=y9qbab3p7"
+    "url": "db/images/projects/9.png"
   }
 ]
