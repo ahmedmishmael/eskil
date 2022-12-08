@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eskil/static/css/main.90c0a078.css",
-    "main.js": "/eskil/static/js/main.8e5b376b.js",
+    "main.css": "/eskil/static/css/main.97cbb4da.css",
+    "main.js": "/eskil/static/js/main.2697918e.js",
     "static/media/EskilMP4.mp4": "/eskil/static/media/EskilMP4.44d5edad3bbaed39f891.mp4",
     "static/media/team1.jpg": "/eskil/static/media/team1.de4e1981bdd1e1bb5883.jpg",
     "static/media/team2.jpg": "/eskil/static/media/team2.698f638e6289917edbca.jpg",
@@ -20,11 +20,11 @@
     "static/media/Ahmed Ishmael.png": "/eskil/static/media/Ahmed Ishmael.c2e08ee327555252e236.png",
     "static/media/brand5.png": "/eskil/static/media/brand5.f83a4b57c07fea85af58.png",
     "index.html": "/eskil/index.html",
-    "main.90c0a078.css.map": "/eskil/static/css/main.90c0a078.css.map",
-    "main.8e5b376b.js.map": "/eskil/static/js/main.8e5b376b.js.map"
+    "main.97cbb4da.css.map": "/eskil/static/css/main.97cbb4da.css.map",
+    "main.2697918e.js.map": "/eskil/static/js/main.2697918e.js.map"
   },
   "entrypoints": [
-    "static/css/main.90c0a078.css",
-    "static/js/main.8e5b376b.js"
+    "static/css/main.97cbb4da.css",
+    "static/js/main.2697918e.js"
   ]
 }
