@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eskil/static/css/main.4ff342b7.css",
-    "main.js": "/eskil/static/js/main.31261ecb.js",
+    "main.js": "/eskil/static/js/main.16a50906.js",
     "static/media/EskilMP4.mp4": "/eskil/static/media/EskilMP4.44d5edad3bbaed39f891.mp4",
     "static/media/team1.jpg": "/eskil/static/media/team1.de4e1981bdd1e1bb5883.jpg",
     "static/media/team2.jpg": "/eskil/static/media/team2.698f638e6289917edbca.jpg",
@@ -16,14 +16,15 @@
     "static/media/blog2.jpg": "/eskil/static/media/blog2.117910362ffe6fad4480.jpg",
     "static/media/blog4.jpg": "/eskil/static/media/blog4.a85e08e739b5242f771f.jpg",
     "static/media/blog3.jpg": "/eskil/static/media/blog3.cc5063105aff14eb6c51.jpg",
+    "static/media/cart.png": "/eskil/static/media/cart.3fb2f85a27ef1e5245ad.png",
     "static/media/brand3.png": "/eskil/static/media/brand3.be92cfc3a30669cfbe76.png",
     "static/media/brand5.png": "/eskil/static/media/brand5.f83a4b57c07fea85af58.png",
     "index.html": "/eskil/index.html",
     "main.4ff342b7.css.map": "/eskil/static/css/main.4ff342b7.css.map",
-    "main.31261ecb.js.map": "/eskil/static/js/main.31261ecb.js.map"
+    "main.16a50906.js.map": "/eskil/static/js/main.16a50906.js.map"
   },
   "entrypoints": [
     "static/css/main.4ff342b7.css",
-    "static/js/main.31261ecb.js"
+    "static/js/main.16a50906.js"
   ]
 }
