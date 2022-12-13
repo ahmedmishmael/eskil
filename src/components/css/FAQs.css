@@ -1,0 +1,15 @@
+#FAQs aside a {
+  display: block;
+}
+#FAQs aside a svg {
+  width: 0;
+}
+#FAQs aside a:hover svg {
+  transition: 0.3s;
+  width: 15px;
+}
+
+#careers ul {
+  list-style: none;
+  padding: 0;
+}

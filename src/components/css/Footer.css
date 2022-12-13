@@ -1,0 +1,27 @@
+footer {
+  border-top: 1px solid silver;
+}
+footer a {
+  text-decoration: none;
+}
+.footer-col {
+  display: flex;
+  flex-direction: column;
+  line-height: 2;
+}
+.footer-col svg {
+  width: 0;
+}
+.footer-col a:hover svg {
+  transition: 0.3s ease-in-out;
+  width: 15px;
+}
+#footer {
+  border-top: 1px solid silver;
+}
+#paygates {
+  font-size: xx-large;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}

@@ -1,0 +1,17 @@
+nav {
+  border-bottom: 1px solid #c0c0c0;
+}
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
+#nav-left a:hover {
+  text-decoration: underline !important;
+}
+#nav-left {
+  font-size: large;
+}
+.offcanvas-body p {
+  margin: 0 !important;
+  font-size: small;
+}

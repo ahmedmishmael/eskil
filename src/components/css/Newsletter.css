@@ -1,0 +1,29 @@
+#newsletter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.policy-txt {
+  font-style: italic;
+}
+.policy-txt a {
+  text-decoration: underline !important;
+}
+@media screen and (max-width: 767px) {
+  #newsletter form {
+    width: 100vw;
+  }
+}
+
+#newsletter label {
+  background-color: black;
+  color: white;
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+#newsletter label:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,47 @@
+#account h2 {
+  text-align: center;
+}
+#account form {
+  display: flex;
+  flex-direction: column;
+  padding-right: 25%;
+  padding-left: 25%;
+}
+@media screen and (max-width: 374px) {
+  #account form {
+    padding: 0 !important;
+  }
+}
+#account button {
+  background-color: black;
+  color: white;
+  border: none;
+  width: fit-content;
+}
+input {
+  height: 50px;
+  outline: 0;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid gray !important;
+}
+
+/* SIGN UP */
+
+#signup button {
+  width: fit-content;
+  background-color: black;
+  color: white;
+  border: none;
+}
+#signup form {
+  display: flex;
+  flex-direction: column;
+  padding-right: 25%;
+  padding-left: 25%;
+}
+@media screen and (max-width: 374px) {
+  #signup form {
+    padding: 0 !important;
+  }
+}
